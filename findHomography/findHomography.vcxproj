@@ -22,7 +22,7 @@
     <ProjectGuid>{5B7B66BB-CF0B-4E3C-9DB8-9668C03ADE05}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>findHomography</RootNamespace>
-    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
